@@ -1,0 +1,3 @@
+char* chao() {
+	return "Chao";
+}
